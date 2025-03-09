@@ -6,7 +6,7 @@ Extension này được thiết kế để vượt Yeumoney tự động.
 
 ## Tính Năng
 
-- **Tự động bypass**: Tự động chuyển hướng người dùng đến liên kết gốc sau 3s mà không cần nhấp thêm lần nào.
+- **Tự động bypass**: Tự động chuyển hướng người dùng đến liên kết gốc sau 80s mà không cần nhấp thêm lần nào.
 - **Dễ dàng cài đặt**: Cài đặt đơn giản trên Tampermonkey.
 - **Nhẹ và nhanh**: Tối ưu hóa để không làm chậm trình duyệt.
 
@@ -17,7 +17,7 @@ Extension này được thiết kế để vượt Yeumoney tự động.
 Điện thoại cài tương tự như trên máy tính ( firefox và cài extension tampermonkey)
 
 1. Cài đặt Tampermonkey trên trình duyệt Chrome hoặc Firefox.
-2. Cài đặt script bằng cách nhấp vào [Đây](https://github.com/thjvjpxz/bypass-yeumoney/raw/main/Bypass-Shortlink-1.2.user.js)
+2. Cài đặt script bằng cách nhấp vào [Đây](https://github.com/thjvjpxz/bypass-yeumoney/raw/main/Bypass-Shortlink-1.3.user.js)
 
 ## Sử Dụng
 
@@ -39,7 +39,7 @@ Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, hãy liên h
 
 - Email: [acckthi7@gmail.com](mailto:acckthi7@gmail.com)
 - Telegram: [@thjvjpxz](https://t.me/thjvjpxz)
-- Facebook: [Thj Vjpxz](https://www.facebook.com/thi.17.8)
+- Facebook: [Kim Thi](https://www.facebook.com/thi.17.8)
 
 ## Credits
 
